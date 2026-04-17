@@ -14,4 +14,9 @@ tags: [tasks, backlog]
 
 ---
 
-## TASK-001: Database init
+1. Frontend vendor flow     — dashboard, create, send, decision
+2. Frontend recipient flow  — /apply/:token 
+3. PDF upload + AI парсинг  —  (4.3)
+4. AI decision summary      — extra credit (5.2)
+5. Apollo prefill           — extra credit (5.1)
+6. README                   — end
